@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
 
-learning_rate = 1e-4
+learning_rate = 1e-5
 iteration = 10000
 
 x = np.array([[8.70153760], [3.90825773], [1.89362433], [3.28730045], 
